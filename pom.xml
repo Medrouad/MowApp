@@ -29,7 +29,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.mrouad.mowitnow.MowFromFile</mainClass>
+                            <mainClass>com.mrouad.mowitnow.MainApplication</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

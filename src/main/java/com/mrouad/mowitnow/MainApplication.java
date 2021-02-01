@@ -9,7 +9,7 @@ import com.mrouad.mowitnow.instructions.InstructionsScanner;
 /**
  * Execute this to mow with instructions coming from a sample file.
  */
-public class MowFromFile {
+public class MainApplication {
 
     public static void main(String[] args) throws FileNotFoundException {
 
